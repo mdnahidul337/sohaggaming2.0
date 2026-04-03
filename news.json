@@ -1,0 +1,94 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Bangladesh Launches New Smart Transport System",
+      "description": "Bangladesh has officially launched a modern smart transport system in Dhaka to reduce traffic congestion and improve road safety. This advanced system uses AI-based traffic signals, real-time monitoring, and digital ticketing to ensure faster and more efficient travel for commuters. The initiative is expected to significantly reduce travel time and fuel consumption, making daily transportation more convenient for citizens. Experts believe this step will boost the country's smart city development and attract foreign investment. Stay updated with the latest Bangladesh transport news and smart technology updates.",
+      "image": "https://source.unsplash.com/800x500/?bangladesh,traffic",
+      "date": "2026-04-03",
+      "category": "Technology",
+      "source": "Daily News BD"
+    },
+    {
+      "id": 2,
+      "title": "Global AI Market Sees Rapid Growth in 2026",
+      "description": "The global Artificial Intelligence market is experiencing massive growth in 2026, driven by innovations from leading technology companies. AI is now being used in healthcare, finance, education, and automation, creating new job opportunities and transforming industries worldwide. Experts predict that AI will become one of the most profitable sectors in the coming years, attracting billions in investments. Businesses are rapidly adopting AI tools to increase efficiency and reduce operational costs. Follow the latest AI news, trends, and future technology insights to stay ahead in the digital world.",
+      "image": "https://source.unsplash.com/800x500/?artificial-intelligence",
+      "date": "2026-04-03",
+      "category": "Tech",
+      "source": "Tech World"
+    },
+    {
+      "id": 3,
+      "title": "Cricket: Bangladesh Wins Series Against Sri Lanka",
+      "description": "Bangladesh cricket team secured a thrilling victory against Sri Lanka, winning the series in a dramatic final match. The players showed outstanding performance, teamwork, and determination, making fans proud across the country. This victory strengthens Bangladesh's position in international cricket rankings and boosts team confidence ahead of upcoming tournaments. Cricket lovers are celebrating nationwide, with social media flooded with reactions and highlights. Stay updated with the latest Bangladesh cricket news, match analysis, and sports updates.",
+      "image": "https://source.unsplash.com/800x500/?cricket,stadium",
+      "date": "2026-04-03",
+      "category": "Sports",
+      "source": "Sports Update"
+    },
+    {
+      "id": 4,
+      "title": "New Smartphone Released with Advanced Features",
+      "description": "A new flagship smartphone has been launched with cutting-edge features including an AI-powered camera, long-lasting battery, and ultra-fast performance. The device is designed to meet the needs of modern users, offering improved gaming, photography, and multitasking capabilities. Tech enthusiasts are already calling it one of the best smartphones of 2026. The launch is expected to boost competition in the mobile market and attract global attention. Read the latest smartphone news, reviews, and technology updates to find the best devices for your needs.",
+      "image": "https://source.unsplash.com/800x500/?smartphone",
+      "date": "2026-04-03",
+      "category": "Gadgets",
+      "source": "Gadget News"
+    },
+    {
+      "id": 5,
+      "title": "Stock Market Shows Positive Growth",
+      "description": "The stock market has shown strong positive growth today, with major indices rising due to increased investor confidence. Economic recovery, stable inflation rates, and strong corporate earnings have contributed to this upward trend. Financial experts suggest that this growth could continue if global conditions remain stable. Investors are advised to monitor market trends carefully and make informed decisions. Stay updated with the latest stock market news, financial insights, and investment tips.",
+      "image": "https://source.unsplash.com/800x500/?stock-market",
+      "date": "2026-04-03",
+      "category": "Finance",
+      "source": "Business Times"
+    },
+    {
+      "id": 6,
+      "title": "New Educational Policy Announced",
+      "description": "The government has announced a new education policy aimed at improving digital learning and student engagement across Bangladesh. The policy focuses on modern curriculum development, teacher training, and the integration of technology in classrooms. It also aims to reduce dropout rates and enhance overall education quality. Students and educators are expected to benefit greatly from these reforms. Follow the latest education news in Bangladesh and updates on academic policy changes.",
+      "image": "https://source.unsplash.com/800x500/?education,students",
+      "date": "2026-04-03",
+      "category": "Education",
+      "source": "Education BD"
+    },
+    {
+      "id": 7,
+      "title": "Climate Change Awareness Campaign Launched",
+      "description": "A nationwide climate change awareness campaign has been launched to educate people about environmental protection and sustainability. The campaign includes tree plantation programs, public seminars, and social media awareness activities. Experts warn that immediate action is needed to prevent long-term environmental damage. Citizens are encouraged to participate actively in eco-friendly initiatives. Stay informed with the latest environmental news and climate updates.",
+      "image": "https://source.unsplash.com/800x500/?climate-change",
+      "date": "2026-04-03",
+      "category": "Environment",
+      "source": "Green World"
+    },
+    {
+      "id": 8,
+      "title": "New Metro Rail Extension Opens in Dhaka",
+      "description": "The Dhaka Metro Rail has been extended to new مناطق, significantly reducing travel time and improving daily commuting for thousands of passengers. This development marks a major step forward in urban transportation infrastructure. The metro system is expected to ease traffic congestion and promote eco-friendly travel options. Commuters are already experiencing faster and more comfortable journeys. Follow the latest Dhaka metro rail news and transport updates.",
+      "image": "https://source.unsplash.com/800x500/?metro,train",
+      "date": "2026-04-03",
+      "category": "Transport",
+      "source": "City News"
+    },
+    {
+      "id": 9,
+      "title": "Health Experts Warn About Seasonal Flu",
+      "description": "Health experts have issued warnings about the increasing number of seasonal flu cases across Bangladesh. Doctors recommend taking preventive measures such as vaccination, maintaining hygiene, and avoiding crowded places. Early symptoms include fever, cough, and fatigue. Hospitals are preparing to handle a potential rise in patients. Stay updated with the latest health news, medical advice, and safety tips.",
+      "image": "https://source.unsplash.com/800x500/?hospital,health",
+      "date": "2026-04-03",
+      "category": "Health",
+      "source": "Health Line"
+    },
+    {
+      "id": 10,
+      "title": "Freelancing Industry Booming in Bangladesh",
+      "description": "The freelancing industry in Bangladesh is growing rapidly, with thousands of young professionals joining online platforms to earn income. Popular sectors include graphic design, web development, and digital marketing. Bangladesh is now ranked among the top freelancing countries globally. This growth is helping reduce unemployment and boost the digital economy. Stay updated with freelancing tips, online earning strategies, and digital career opportunities.",
+      "image": "https://source.unsplash.com/800x500/?freelancing,laptop",
+      "date": "2026-04-03",
+      "category": "Economy",
+      "source": "Digital BD"
+    }
+  ]
+}
