@@ -1,172 +1,122 @@
-{
-  "news": [
-    {
-      "id": 1,
-      "title": "Bangladesh Launches New Smart Transport System",
-      "description": "Bangladesh has officially launched a modern smart transport system in Dhaka, marking a transformative milestone in the country’s journey toward digital and urban development. Dhaka, one of the most densely populated cities globally, has long struggled with traffic congestion, inefficient signal systems, and rising environmental concerns. This initiative introduces advanced technologies including artificial intelligence-based traffic control, real-time monitoring, and digital ticketing systems to streamline urban mobility.
-
-The smart transport system integrates AI-powered traffic signals that dynamically adjust based on real-time vehicle density. Unlike traditional fixed-timing signals, this system reduces unnecessary waiting time and improves traffic flow efficiency. Sensors and cameras installed across key intersections collect live traffic data, which is analyzed through a centralized control system. Authorities can instantly detect congestion, accidents, or unusual traffic patterns and take immediate action.
-
-Another major feature is the implementation of digital ticketing. Commuters can use smart cards or mobile applications to pay for transport, eliminating cash dependency and improving convenience. This also reduces corruption and ensures transparency in fare collection. Additionally, digital systems allow authorities to analyze passenger trends, helping improve route planning and service efficiency.
-
-Economically, the impact is expected to be substantial. Reduced congestion means lower fuel consumption and increased productivity. Businesses benefit from faster transportation of goods, while individuals save time. The system also positions Bangladesh as a technologically progressive country, attracting foreign investment and boosting the digital economy.
-
-Environmental benefits are equally significant. By reducing idle time in traffic, the system helps lower carbon emissions and air pollution, contributing to a cleaner urban environment. This aligns with global sustainability goals and improves public health.
-
-However, challenges remain. High implementation costs, technical maintenance, and the need for public awareness are key factors that must be addressed. The government has initiated training programs and awareness campaigns to ensure smooth adoption.
-
-Overall, this smart transport system is a major step toward building a smart city ecosystem in Bangladesh. It not only addresses current urban transport issues but also sets the foundation for future innovations such as smart parking, autonomous transport, and integrated city management systems.",
-      "image": "https://source.unsplash.com/800x500/?bangladesh,traffic",
-      "date": "2026-04-03",
-      "category": "Technology",
-      "source": "Daily News BD"
-    },
-    {
-      "id": 2,
-      "title": "Global AI Market Sees Rapid Growth in 2026",
-      "description": "The global Artificial Intelligence market is witnessing unprecedented expansion in 2026, fueled by rapid technological advancements and widespread adoption across industries. AI has evolved into a core driver of innovation, transforming sectors such as healthcare, finance, education, and automation.
-
-One of the main drivers of AI growth is the explosion of data. With billions of connected devices and digital interactions occurring daily, AI systems have access to massive datasets that improve learning and prediction accuracy. This has enabled businesses to gain deeper insights into customer behavior, optimize operations, and enhance decision-making.
-
-In healthcare, AI is revolutionizing diagnostics and treatment. Machine learning models analyze medical images and patient data to detect diseases earlier and more accurately. AI-driven drug discovery is accelerating the development of new medications, while personalized treatment plans improve patient outcomes.
-
-The financial sector is also experiencing major changes. AI is used for fraud detection, risk analysis, and algorithmic trading. Financial institutions can process vast amounts of data in real time, reducing operational costs and improving efficiency. Similarly, education is benefiting from AI-powered personalized learning systems that adapt to student performance.
-
-Businesses worldwide are leveraging AI to automate repetitive tasks, improve customer service through chatbots, and optimize supply chains. This has significantly increased productivity and reduced operational costs.
-
-Despite its benefits, AI raises ethical concerns such as data privacy, job displacement, and algorithm bias. Governments and organizations are working to establish regulations to ensure responsible AI use.
-
-Looking forward, AI is expected to continue shaping the future of the global economy. Emerging technologies like autonomous vehicles, robotics, and smart cities will further accelerate AI adoption. The market is projected to attract billions in investment, making it one of the most lucrative sectors in technology.
-
-In conclusion, the rapid growth of AI in 2026 highlights its critical role in modern society. It is transforming industries, creating opportunities, and driving economic progress on a global scale.",
-      "image": "https://source.unsplash.com/800x500/?artificial-intelligence",
-      "date": "2026-04-03",
-      "category": "Tech",
-      "source": "Tech World"
-    },
-    {
-      "id": 3,
-      "title": "Cricket: Bangladesh Wins Series Against Sri Lanka",
-      "description": "Bangladesh cricket team has secured a remarkable series victory against Sri Lanka, delivering an outstanding performance that has captured the attention of cricket fans worldwide. The series concluded with a thrilling final match where Bangladesh showcased exceptional teamwork, discipline, and determination.
-
-The players demonstrated strong batting and bowling performances throughout the series. Key players contributed significantly, with top-order batsmen setting solid foundations and bowlers maintaining pressure on the opposition. The team’s fielding was also commendable, with crucial catches and run-outs turning the momentum in their favor.
-
-This victory holds great significance for Bangladesh cricket. It strengthens the team’s position in international rankings and boosts confidence ahead of upcoming tournaments. The win also highlights the progress Bangladesh has made in recent years as a competitive cricketing nation.
-
-Fans across the country celebrated the victory enthusiastically. Social media platforms were flooded with congratulatory messages, match highlights, and player performances. Cricket continues to unite the nation, bringing joy and pride to millions of supporters.
-
-Experts believe that this victory reflects the team’s growing maturity and strategic development. With consistent performances and strong leadership, Bangladesh is expected to achieve even greater success in the future.
-
-Overall, the series win against Sri Lanka marks a significant milestone in Bangladesh’s cricket journey, reinforcing its status as a rising force in international cricket.",
-      "image": "https://source.unsplash.com/800x500/?cricket,stadium",
-      "date": "2026-04-03",
-      "category": "Sports",
-      "source": "Sports Update"
-    },
-    {
-      "id": 4,
-      "title": "New Smartphone Released with Advanced Features",
-      "description": "A new flagship smartphone has been launched, featuring cutting-edge technology designed to meet the demands of modern users. The device includes an AI-powered camera, high-performance processor, and long-lasting battery, making it one of the most advanced smartphones of 2026.
-
-The AI camera system enhances photography by automatically adjusting settings based on lighting and scene conditions. Users can capture professional-quality images with minimal effort. The device also supports advanced video recording features, making it ideal for content creators.
-
-Performance is another highlight of the smartphone. Equipped with a powerful processor and increased RAM, it delivers smooth multitasking and high-speed gaming experiences. The optimized operating system ensures efficient resource management and improved battery life.
-
-The design of the smartphone is sleek and modern, with a high-resolution display that offers vibrant colors and sharp visuals. The device also includes enhanced security features such as facial recognition and fingerprint scanning.
-
-The launch of this smartphone is expected to intensify competition in the global mobile market. Tech enthusiasts and consumers are showing strong interest, making it one of the most anticipated devices of the year.
-
-Overall, the smartphone represents the latest advancements in mobile technology, combining performance, design, and innovation to deliver a premium user experience.",
-      "image": "https://source.unsplash.com/800x500/?smartphone",
-      "date": "2026-04-03",
-      "category": "Gadgets",
-      "source": "Gadget News"
-    },
-    {
-      "id": 5,
-      "title": "Stock Market Shows Positive Growth",
-      "description": "The stock market has recorded strong positive growth, driven by increased investor confidence and favorable economic conditions. Major indices have shown significant gains, reflecting optimism among investors and businesses.
-
-Economic recovery, stable inflation rates, and strong corporate earnings have contributed to this upward trend. Investors are actively participating in the market, leading to increased trading volumes and improved liquidity.
-
-Financial experts suggest that this growth may continue if global economic conditions remain stable. However, they also advise caution and emphasize the importance of informed investment decisions.
-
-The rise in stock market performance has a positive impact on the overall economy. It encourages business expansion, job creation, and increased consumer spending.
-
-In conclusion, the current growth trend highlights the resilience of the financial market and its potential for future development.",
-      "image": "https://source.unsplash.com/800x500/?stock-market",
-      "date": "2026-04-03",
-      "category": "Finance",
-      "source": "Business Times"
-    },
-    {
-      "id": 6,
-      "title": "New Educational Policy Announced",
-      "description": "The government has introduced a new education policy aimed at modernizing the education system and improving learning outcomes. The policy focuses on digital learning, updated curriculum, and teacher training.
-
-Technology integration is a key aspect of the policy, enabling students to access online resources and interactive learning platforms. This enhances engagement and provides a more personalized learning experience.
-
-The policy also aims to reduce dropout rates and improve access to education, especially in rural areas. Training programs for teachers ensure effective implementation of modern teaching methods.
-
-Overall, the new education policy is expected to bring significant improvements in the quality of education in Bangladesh.",
-      "image": "https://source.unsplash.com/800x500/?education,students",
-      "date": "2026-04-03",
-      "category": "Education",
-      "source": "Education BD"
-    },
-    {
-      "id": 7,
-      "title": "Climate Change Awareness Campaign Launched",
-      "description": "A nationwide climate change awareness campaign has been launched to educate citizens about environmental protection and sustainability. The initiative includes tree plantation programs, seminars, and social media campaigns.
-
-Experts emphasize the urgency of addressing climate change to prevent long-term environmental damage. Public participation is crucial for the success of this campaign.
-
-The campaign encourages eco-friendly practices such as reducing waste, conserving energy, and protecting natural resources.
-
-Overall, this initiative aims to create awareness and promote sustainable living among citizens.",
-      "image": "https://source.unsplash.com/800x500/?climate-change",
-      "date": "2026-04-03",
-      "category": "Environment",
-      "source": "Green World"
-    },
-    {
-      "id": 8,
-      "title": "New Metro Rail Extension Opens in Dhaka",
-      "description": "The Dhaka Metro Rail has been extended to new areas, significantly improving urban transportation. This development reduces travel time and provides a more comfortable commuting experience.
-
-The metro system is expected to reduce traffic congestion and promote eco-friendly transportation. Thousands of commuters are already benefiting from faster journeys.
-
-This extension marks a major milestone in infrastructure development and urban planning.",
-      "image": "https://source.unsplash.com/800x500/?metro,train",
-      "date": "2026-04-03",
-      "category": "Transport",
-      "source": "City News"
-    },
-    {
-      "id": 9,
-      "title": "Health Experts Warn About Seasonal Flu",
-      "description": "Health experts have warned about the increasing number of seasonal flu cases. Preventive measures such as vaccination and hygiene are recommended.
-
-Hospitals are preparing for a potential rise in patients. Early detection and treatment are crucial to prevent complications.
-
-Public awareness is essential to control the spread of the flu.",
-      "image": "https://source.unsplash.com/800x500/?hospital,health",
-      "date": "2026-04-03",
-      "category": "Health",
-      "source": "Health Line"
-    },
-    {
-      "id": 10,
-      "title": "Freelancing Industry Booming in Bangladesh",
-      "description": "The freelancing industry in Bangladesh is experiencing rapid growth, with thousands of young professionals joining online platforms.
-
-Popular sectors include web development, graphic design, and digital marketing. This growth is contributing to the digital economy and reducing unemployment.
-
-Bangladesh is now among the top freelancing countries globally, highlighting its potential in the global digital workforce.",
-      "image": "https://source.unsplash.com/800x500/?freelancing,laptop",
-      "date": "2026-04-03",
-      "category": "Economy",
-      "source": "Digital BD"
-    }
-  ]
-}
+[
+  {
+    "slug": "gta-6-release-date-map-leaks-gameplay",
+    "seo_title": "GTA 6 Release Date: Every Leak, Rumor, and Official Detail (2026)",
+    "title": "GTA 6: The Ultimate Guide to the Next Evolution of Open-World Gaming",
+    "description": "Grand Theft Auto VI (GTA 6) is undoubtedly the most anticipated video game in history. Since the official trailer release by Rockstar Games, the internet has been flooded with analysis, theories, and leaks. This 2000-word deep dive explores everything we know so far about Vice City's return, the dual-protagonist system (Lucia and Jason), and the revolutionary technical advancements coming to the RAGE engine. Rockstar has promised a 'pushing of limits' for the series, and our analysis shows that the scope of the game might be double that of GTA V. From the vibrant streets of Leonida (Rockstar's version of Florida) to the swampy everglades, every pixel is being crafted with unprecedented detail. In this article, we cover: 1. The evolution of Vice City since the 2002 classic. 2. How the AI-driven NPC systems will transform world interaction. 3. The rumored dynamic weather system involving hurricanes and floods. 4. The potential integration of cryptocurrency-style payment systems in the game's economy. 5. What the latest leaks say about the game's length and story structure. As of early 2026, the development is in the final polishing stage. We also touch upon the GTA Online 2.0 rumors, which suggest a persistent, evolving map that changes based on community events. Whether you are a casual fan or a hardcore theorist, this guide provides the context needed to understand why GTA 6 is set to redefine the gaming industry once again. [Content continues with deep sections on physics, radio stations, and satirical themes...]",
+    "short_desc": "Everything you need to know about GTA 6: Release date, Lucia and Jason's story, map size, and the latest gameplay leaks from Vice City.",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800",
+    "tags": ["GTA 6", "Gaming News", "Rockstar Games", "Upcoming Games"],
+    "link": "#",
+    "pubDate": "2026-04-04 18:00:00",
+    "source_id": "Sohag Gaming"
+  },
+  {
+    "slug": "bussid-bangladesh-map-mod-2026-download",
+    "seo_title": "BUSSID Bangladesh Map Mod 2026: Best High-Graphic Mods Download Guide",
+    "title": "BUSSID Bangladesh Map Mod: Experience the Most Realistic BD Highways",
+    "description": "Bus Simulator Indonesia (BUSSID) has become a cultural phenomenon in Bangladesh. The ability to add custom mods has allowed players to drive iconic Bangladeshi buses like Hanif, Ena, and Shyamoli on realistic BD maps. This comprehensive guide covers the latest 2026 Bangladesh Map mods, featuring the Dhaka-Chittagong Highway, the Padma Bridge, and rural village roads. We provide a step-by-step installation guide for OBB files and skin mods. The 2026 update includes high-definition textures, realistic traffic AI (including CNGs and rickshaws), and dynamic weather. We also rank the top 10 bus skins based on community feedback. For any BUSSID fan in Bangladesh, these mods are essential for an immersive experience. We discuss performance optimization for mid-range Android devices, ensuring 60FPS gameplay even with the heaviest mods. This SEO guide is designed to help you find the safest download links and avoid malware while enjoying the best of Bangladeshi virtual trucking. [Content expands on specific bus models like Scania, Volvo, and local non-AC buses...]",
+    "short_desc": "Download the latest BUSSID Bangladesh Map Mod 2026. Realistic highways, Padma Bridge, and Hanif/Ena bus skins for the best simulation experience.",
+    "thumbnail": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "tags": ["BUSSID", "Modding", "Bangladesh", "Simulation"],
+    "link": "#",
+    "pubDate": "2026-04-04 17:30:00",
+    "source_id": "BD Gamers Hub"
+  },
+  {
+    "slug": "best-gaming-smartphones-under-30000-bdt-2026",
+    "seo_title": "Best Gaming Smartphones Under 30,000 BDT in Bangladesh (April 2026)",
+    "title": "Top 10 Best Gaming Phones Under 30k BDT: High Performance on a Budget",
+    "description": "Finding the perfect gaming phone under 30,000 BDT in the Bangladeshi market can be challenging. With brands like Xiaomi, Realme, Infinix, and Samsung competing for the mid-range crown, buyers are often confused by specs vs. real-world performance. In this exhaustive 2000-word review, we test the latest devices on PUBG Mobile, Free Fire, and Genshin Impact. We analyze chipsets like the MediaTek Dimensity 8000 series and Snapdragon 7 Gen 3, looking at thermal management, battery life (5000mAh+), and fast charging capabilities. We highlight the Infinix GT 30 Pro, Realme Narzo 80, and Redmi Note 15 Pro as top contenders. This guide includes performance benchmarks, display quality (120Hz AMOLED vs LCD), and software optimization for gaming. We also provide a checklist for gamers: what to look for beyond just the processor. If you want the most value for your money in April 2026, this is the only buyer's guide you'll ever need. [Detailed breakdown of each phone follows...]",
+    "short_desc": "Looking for a gaming phone under 30,000 BDT? Here are the top 10 picks for 2026 with high FPS and long battery life.",
+    "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&q=80&w=800",
+    "tags": ["Mobile Gaming", "Gadgets", "Smartphone Review", "Bangladesh"],
+    "link": "#",
+    "pubDate": "2026-04-04 16:45:00",
+    "source_id": "Tech Sohag"
+  },
+  {
+    "slug": "free-fire-new-update-2026-patch-notes",
+    "seo_title": "Free Fire 2026 New Update: Patch Notes, New Character, and Weapon Changes",
+    "title": "Garena Free Fire: Everything New in the Massive April 2026 Update",
+    "description": "Free Fire continues its dominance in the mobile battle royale space with its latest 'Awakening' update. This 2000-word analysis breaks down every single change, from the new map 'Sohag City' (a special tribute to Southeast Asian architecture) to the overhaul of the pet system. We deep dive into the stats of the new character, 'Ryo', whose ability can jam enemy radars. We also examine the balance changes for the MP40 and M1887, which have been part of the meta for years. Garena has also introduced a new 'Sky-Diving' mechanic that changes how players land and loot. For competitive players, we discuss the adjusted ranking points system and the new eSports-ready private lobby features. This guide is essential for anyone looking to push their rank to Grandmaster this season. We also share tips on how to reduce lag and optimize FPS after the update. [Comprehensive patch note details follow...]",
+    "short_desc": "Check out the latest Free Fire April 2026 update details. New characters, weapon buffs/nerfs, and map changes explained.",
+    "thumbnail": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&q=80&w=800",
+    "tags": ["Free Fire", "Mobile Gaming", "Updates", "eSports"],
+    "link": "#",
+    "pubDate": "2026-04-04 15:20:00",
+    "source_id": "Sohag Gaming"
+  },
+  {
+    "slug": "pc-build-guide-60000-bdt-bangladesh-2026",
+    "seo_title": "Best PC Build Guide Under 60,000 BDT in Bangladesh (2026 Edition)",
+    "title": "Build the Ultimate Gaming PC Under 60k BDT: Best Components for 1080p Ultra",
+    "description": "Building a gaming PC in 2026 requires careful planning due to fluctuating component prices in Bangladesh. This 2000-word guide provides the most optimized build for a 60,000 BDT budget, focusing on high 1080p performance and future upgradeability. We recommend the Intel Core i5-15400F paired with the NVIDIA RTX 4050 or AMD RX 7600 (depending on availability). We break down why 16GB of DDR5 RAM is now the minimum requirement and which NVMe Gen 4 SSDs offer the best read/write speeds for the price. We also emphasize the importance of a 80+ Bronze rated PSU to protect your investment from voltage fluctuations common in BD. This guide includes a step-by-step assembly overview, thermal paste application tips, and how to install Windows 12 for gaming. By following this list, you'll have a machine capable of running GTA 6 at respectable settings when it launches. [Full component list with local shop pricing...]",
+    "short_desc": "The most detailed PC build guide under 60k BDT in Bangladesh. Get the best FPS for your money with these selected parts.",
+    "thumbnail": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&q=80&w=800",
+    "tags": ["PC Build", "Gaming PC", "Hardware", "Budget Gaming"],
+    "link": "#",
+    "pubDate": "2026-04-04 14:10:00",
+    "source_id": "Sohag Gaming"
+  },
+  {
+    "slug": "minecraft-1-25-update-features-download",
+    "seo_title": "Minecraft 1.25 'The Deep Depths' Update: New Biomes, Mobs, and Crafting",
+    "title": "Minecraft 1.25 Update: A Complete Guide to 'The Deep Depths' Expansion",
+    "description": "Mojang has finally released the 1.25 update for Minecraft, titled 'The Deep Depths'. This massive addition introduces the 'Crystalline Caves' biome, a bioluminescent underground world that challenges everything we know about mining. In this 2000-word guide, we explore the new 'Echo' set of tools, which are more durable than Netherite but require rare 'Void Shards' to craft. We also analyze the behavior of the 'Stalker' mob, a blind predator that tracks players by sound, much more advanced than the Warden. The update also brings significant changes to Redstone, with the introduction of 'Wireless Redstone' blocks using Crystalline technology. This article covers everything from Bedrock and Java parity to the new server hosting optimizations. For players looking to explore the end-game, we provide a walkthrough on how to find the 'Void Portal'. [Endless exploration of new mechanics...]",
+    "short_desc": "Explore the new Minecraft 1.25 'The Deep Depths' update. New bioluminescent biomes, mobs, and wireless redstone guide.",
+    "thumbnail": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?auto=format&fit=crop&q=80&w=800",
+    "tags": ["Minecraft", "Gaming", "Updates", "Sandbox"],
+    "link": "#",
+    "pubDate": "2026-04-04 13:00:00",
+    "source_id": "World of Gaming"
+  },
+  {
+    "slug": "ea-sports-fc-26-leaks-release-date",
+    "seo_title": "EA Sports FC 26 Leaks: Hypermotion V5, Career Mode Overhaul, and New icons",
+    "title": "EA Sports FC 26: Everything Revealed So Far About the Next Football Sim",
+    "description": "Following the success of FC 25, EA is pushing the boundaries of simulation with FC 26. The new Hypermotion V5 engine uses volumetric data from over 2,000 matches to create more realistic animations than ever before. This 2000-word article dives into the rumored 'AI Manager' feature in Career Mode, which allows for more dynamic rivalries and tactical depth. We also look at the leaks regarding the 'Ultimate Team Evolutions' expansion, which will let players upgrade their favorite legends. The licenses for international competitions have also been expanded, reportedly including more Asian leagues. We discuss the expected release date (late September 2025) and the platforms it will support, including the potential PS6 tease. For football fans, FC 26 promises to be the most authentic experience yet. [Deep dive into gameplay and tactical new features...]",
+    "short_desc": "FC 26 is coming with Hypermotion V5 and an AI-driven Career Mode. Discover the latest leaks and new Icons.",
+    "thumbnail": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?auto=format&fit=crop&q=80&w=800",
+    "tags": ["EA FC 26", "Football", "Gaming News", "Sports Sim"],
+    "link": "#",
+    "pubDate": "2026-04-04 12:15:00",
+    "source_id": "Sports Gaming BD"
+  },
+  {
+    "slug": "nvidia-rtx-5090-specs-release-date-price",
+    "seo_title": "NVIDIA RTX 5090 Blackwell Specs: The Most Powerful GPU Ever (2026)",
+    "title": "RTX 5090: Unleashing the Power of NVIDIA's Blackwell Architecture",
+    "description": "The GPU world is buzzing with the release of the RTX 50 series. The flagship RTX 5090 is rumored to be 2x faster than the 4090 in Ray Tracing workloads. This 2000-word technical breakdown analyzes the Blackwell architecture, the switch to GDDR7 memory, and the new 'AI-Upscaling Gen 3' which claims to deliver 8K gaming at high frame rates. We discuss the massive power requirements (potentially up to 600W) and the cooling solutions needed to tame this beast. We also address the price concerns in the Bangladeshi market, where high-end GPUs often face significant markup. This guide is for the enthusiasts who want to know if the upgrade is worth it or if they should wait for the RTX 5080. We also look at the competitive landscape against AMD's RX 8000 series. [Technical charts, memory bandwidth analysts, and gaming performance predictions...]",
+    "short_desc": "RTX 5090 specs revealed: GDDR7 memory, 2x ray-tracing performance, and 600W TDP. Is your PC ready?",
+    "thumbnail": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&q=80&w=800",
+    "tags": ["GPU", "NVIDIA", "Hardware", "PC Gaming"],
+    "link": "#",
+    "pubDate": "2026-04-04 11:30:00",
+    "source_id": "Tech Insider"
+  },
+  {
+    "slug": "cloud-gaming-bangladesh-2026-review",
+    "seo_title": "Cloud Gaming in Bangladesh 2026: Low-Latency Servers and Best Providers",
+    "title": "The Cloud Gaming Revolution: Playing AAA Games on Low-End Hardware in BD",
+    "description": "Cloud gaming is finally becoming a reality in Bangladesh thanks to local data centers and improved fiber-optic infrastructure. This 2000-word feature explores how services like GeForce Now (Singapore servers) and local startups are changing the game. We test latency across Dhaka, Chittagong, and Sylhet, finding that sub-40ms pings are now possible for many gamers. We provide a guide on how to use VPNs to access region-locked libraries and which internet service providers (ISPs) offer the best routing for gaming. We also compare the monthly subscription costs vs. the price of building a high-end PC. For students and budget gamers, cloud gaming is a loophole that allows them to play GTA 6 or Cyberpunk 2 on an old laptop or even a smartphone. This is the future of gaming in developing nations. [ISP speed tests and latency comparison tables...]",
+    "short_desc": "Cloud gaming is here! Play high-end PC games on any device with low latency in Bangladesh. Best services compared.",
+    "thumbnail": "https://images.unsplash.com/photo-1621333100277-e2a5ad2a034d?auto=format&fit=crop&q=80&w=800",
+    "tags": ["Cloud Gaming", "Internet", "Tech News", "Bangladesh"],
+    "link": "#",
+    "pubDate": "2026-04-04 10:00:00",
+    "source_id": "Sohag Gaming"
+  },
+  {
+    "slug": "esports-career-roadmap-bangladesh-2026",
+    "seo_title": "How to Start an eSports Career in Bangladesh: A Professional Roadmap (2026)",
+    "title": "eSports in Bangladesh: From Hobby to a High-Paying Profession",
+    "description": "The eSports scene in Bangladesh has exploded, with local teams now competing in international tournaments for millions of dollars. This 2000-word roadmap is designed for aspiring professional gamers in Bangladesh. We cover everything from choosing the right game (Free Fire, PUBG, Valorant, or FIFA) to finding a mentor and joining a clan. We also discuss the financial side: sponsorship deals, streaming revenue on YouTube/Facebook, and tournament prize pools. Importantly, we address the balance between gaming and education, providing tips for time management. We interview local legends who have made it to the global stage and ask for their advice to the next generation. The government's recognition of gaming as a sport has also opened new doors, which we explore in detail. If you dream of representing Bangladesh in gaming, this is your starting point. [Step by step training schedule and team contact info...]",
+    "short_desc": "Want to be a pro gamer in Bangladesh? Here is the complete 2026 roadmap to eSports success, from training to sponsorships.",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800",
+    "tags": ["eSports", "Career", "Bangladesh", "Pro Gaming"],
+    "link": "#",
+    "pubDate": "2026-04-04 09:15:00",
+    "source_id": "Sohag Gaming"
+  }
+]
